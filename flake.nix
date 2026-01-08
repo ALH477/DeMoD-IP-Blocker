@@ -213,11 +213,7 @@
               Persistent = true;
             };
           };
-          
-          meta = {
-             license = lib.licenses.bsd3;
-             maintainers = [ "DeMoD LLC" ];
-          };
+
         };
       };
   };
