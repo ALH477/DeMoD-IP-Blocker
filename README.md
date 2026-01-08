@@ -29,7 +29,7 @@ Add the input to your `flake.nix`:
 
 ```nix
 {
-  inputs.demod-ip-blocker.url = "git+https://github.com/DeMoDLLC/demod-ip-blocker.git";
+  inputs.demod-ip-blocker.url = "git+https://github.com/ALH477/DeMoD-IP-Blocker.git";
 }
 
 ```
