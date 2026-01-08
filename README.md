@@ -62,6 +62,9 @@ Import and enable the module in your `configuration.nix`:
 
 ---
 
+North Korean soldiers use Astrill VPN while deploying their attacks, here is a list of IP addresses from Astrill VPN. [api link](https://storage.googleapis.com/spur-astrill-vpn/ips.txt)
+
+---
 ## License & Copyright
 
 **Copyright (c) 2026, DeMoD LLC**
